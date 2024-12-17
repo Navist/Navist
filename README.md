@@ -6,7 +6,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![Navist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navist&show_icons=true&theme=tokyonight)
+![Navist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navist&show_icons=true&theme=tokyonight)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navist&layout=compact&theme=tokyonight)
 ### 🚀 Languages and Tools:
 
