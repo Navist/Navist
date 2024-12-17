@@ -1,39 +1,35 @@
 name: Generate Snake Animation
 
 on:
-  push:
-  workflow_dispatch:
-  schedule: 
-    - cron: "0 0 * * *"
+  push:  # Runs on pushes to the repository
+  workflow_dispatch:  # Allows manual runs
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Specifies the environment for the job
     steps:
-      - name: Generate the snake animation
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Checks out your repository code
+
+      - name: Generate the snake animation  # Generates the snake SVG
         uses: Platane/snk@v2
         with:
-          github_user_name: Navist
+          github_user_name: Navist  # Replace with your GitHub username
           outputs: dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensures API access
 
-      - name: Upload the generated snake
+      - name: Upload the snake animation
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist
 
-      - name: Push the SVG to GitHub
+      - name: Deploy to GitHub Pages  # Deploys to the output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
