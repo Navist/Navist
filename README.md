@@ -1,5 +1,5 @@
 ### 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,vsvode,sublime,windows,regex,opencv,html,github,gmail,django,bots,arduino)](https://skillicons.dev)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
