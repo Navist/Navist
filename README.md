@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/Navist/Navist/blob/dist/github-snake-dark.svg)
+![Snake animation](https://github.com/Navist/Navist/blob/output/github-snake-dark.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
