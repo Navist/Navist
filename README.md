@@ -16,4 +16,5 @@
 
 
 ### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charleszwright/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charleszwright/)<br>
+[![Discord](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/143471157151006721)
