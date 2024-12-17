@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Navist.Navist" alt="Visitors">
+</div>
+
 ### 🚀 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,vscode,sublime,windows,regex,opencv,html,github,gmail,django,bots,arduino)](https://skillicons.dev)<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
