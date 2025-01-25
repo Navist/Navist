@@ -2,6 +2,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Navist.Navist" alt="Visitors">
 </div>
 
+### 👋 Hi, I'm Charles!
+I'm an ITF+ and Python-certified tech enthusiast with a passion for tinkering with hardware, building IoT projects, and automating tasks. I enjoy working with Python, Arduino, and 3D printing, and I'm always exploring new ways to combine technology and creativity.
+
 ### 🚀 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,vscode,sublime,windows,regex,opencv,html,github,gmail,django,bots,arduino)](https://skillicons.dev)<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
