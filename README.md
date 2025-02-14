@@ -44,9 +44,6 @@ A demo is currently in the works—stay tuned for updates!
 ### 📫 Let's Collaborate!
 I'm always open to new opportunities, collaborations, or just a chat about tech. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/charleszwright/) or [Discord](https://discord.com/users/143471157151006721).
 
-### 🎯 Fun Fact
-When I'm not coding or tinkering with hardware, I enjoy [insert hobby, e.g., hiking, gaming, or photography]. I believe that creativity and technology go hand in hand!
-
 ### 🚧 Coming Soon
 - **RankBot Demo:** A live demo showcasing the bot’s features and functionality.
 - **Project Case Studies:** Detailed write-ups of my featured projects, including challenges and solutions.
