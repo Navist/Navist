@@ -12,7 +12,7 @@ I'm an ITF+ and Python-certified tech enthusiast with a passion for tinkering wi
 - **Other Skills:** IoT Development, Hardware Tinkering, 3D Printing, Automation
 
 ### 🤖 RankBot (Discord Moderation Bot)
-**RankBot** is a powerful Discord bot I developed to handle moderation tasks on my server. It includes features like:
+**RankBot** is a powerful Discord bot I developed to handle moderation tasks on the Destiny 2 LFG server. It includes features like:
 - Automated role assignment based on user activity.
 - Message filtering and logging.
 - Custom commands for server management.
