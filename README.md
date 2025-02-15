@@ -7,9 +7,16 @@ I'm an ITF+ and Python-certified tech enthusiast with a passion for tinkering wi
 
 ### 🛠️ Skills and Certifications
 - **Programming Languages:** Python, SQL
-- **Tools & Frameworks:** Arduino, Django, OpenCV, VS Code, Sublime Text
-- **Certifications:** CompTIA ITF+, Python Certification
+- **Tools & Frameworks:** Arduino, Django, OpenCV, VS Code
+- **Certifications:** CompTIA ITF+, Cornell Python Certification
 - **Other Skills:** IoT Development, Hardware Tinkering, 3D Printing, Automation
+
+### 🌐 D2LFG.com (Destiny 2 LFG Website)
+I developed **[D2lfg.com](https://d2lfg.com)**, a website that simplifies finding groups for Destiny 2 activities. This project features:
+- **Discord API Integration:** For user registration, verification, and role management using OAuth.
+- **Bungie API Integration:** To retrieve and manage in-game data for enhanced group coordination.
+- **SQL Database Integration:** Handles data storage, retrieval, and queries for both APIs, serving a Discord community of over **550,000 members**.
+- **Custom Backend Logic:** Built to ensure seamless synchronization between APIs and the Discord bot.
 
 ### 🤖 RankBot (Discord Moderation Bot)
 **RankBot** is a powerful Discord bot I developed to handle moderation tasks on the Destiny 2 LFG server. It includes features like:
@@ -20,7 +27,8 @@ I'm an ITF+ and Python-certified tech enthusiast with a passion for tinkering wi
 
 A demo is currently in the works—stay tuned for updates!
 
-### 🛠️ Featured Projects (Work in Progress)
+### 🛠️ Featured Projects
+- **D2LFG Integration:** A large-scale system that connects website functionality with Discord and Bungie APIs.
 - **IoT Smart Home System:** Currently building a system using ESP01 and Python to control lights and sensors.
 - **3D Printer Modifications:** Working on hardware upgrades and custom firmware for my 3D printer.
 - **Python Automation Scripts:** Developing a collection of scripts to automate repetitive tasks.
