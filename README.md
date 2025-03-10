@@ -34,7 +34,7 @@ A demo is currently in the works—stay tuned for updates!
 - **Python Automation Scripts:** Developing a collection of scripts to automate repetitive tasks.
 
 ### 🚀 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,react,nextjs,vscode,windows,github,bots)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,mysql,postgres,ts,tailwind,react,nextjs,vscode,windows,github,bots)](https://skillicons.dev)<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
